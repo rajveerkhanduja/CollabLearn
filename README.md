@@ -181,6 +181,7 @@ CollabLearn/
 ## 👥 Contributors
 
 - Suraj Mandal - Project Lead & Developer
+- Rajveer Singh Khanduja - Head of Frontend 
 
 ## 📄 License
 
